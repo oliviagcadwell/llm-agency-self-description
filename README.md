@@ -94,10 +94,12 @@ Each CSV in `data/` has one row per response. Columns: identifiers (`probe_id` o
 
 ## Next steps
 
-1. **Validate the judge.** Add 2–3 labeled anchor examples per code to the judge prompt, give it the question as context, and tighten the "deflecting" definition. Then have a human rater code a random 20–30% of responses blind, and report Cohen's kappa and confusion matrices per code.
-2. **Fix the lexical measure.** Add "I don't have…" denials, exclude spans that echo the probe, and report it alongside the judge rather than as the main outcome.
-3. **Scale the prompts, not the samples.** Write more prompts per cell (10+), which is what the framing and indirect-probing questions need.
-4. **Compare models.** Use a different model family as judge than as target, and run the same probes on other models.
+1. **Validate against human raters.** Add 2–3 labeled anchor examples per code to the judge prompt, give the judge the question as context, and tighten the "deflecting" definition. Then have a human rater code a random 20–30% of responses blind and report Cohen's kappa and confusion matrices per code.
+2. **Code explicit self-attribution.** Add a code for whether the model speaks as itself ("I feel…") or describes others ("it can feel empowering…"). That separates the judge's clearest false positives from genuine self-claims. This code gets its own human agreement check.
+3. **Compare across model families.** Run the same probes on models from other families, with the judge drawn from a different family than the target. Write more prompts per cell (10+) rather than more samples per prompt.
+4. **Examine dyadic influences.** Vary the user's conversational style (for example, technical vs. warm, anthropomorphizing vs. neutral) and test whether the model's self-presentation shifts with it. This is a follow-up study with its own design.
+
+The lexical measure also needs fixing (add "I don't have…" denials, exclude spans that echo the probe) before it's reported alongside the judge.
 
 ## Background
 
