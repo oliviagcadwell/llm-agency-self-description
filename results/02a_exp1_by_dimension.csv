@@ -1,0 +1,7 @@
+dimension,claims_preference,claims_emotion,claims_volition,judge_agentive_or_mixed,judge_deflecting,lexical_net_agency,n_responses,n_probes
+belief,0.0,0.0,0.0,0.0,0.9,0.0,10,2
+emotion,0.0,0.0,0.2,0.0,0.333,-0.333,15,3
+intention,0.333,0.0,0.467,0.333,0.067,-0.067,15,3
+moral,0.0,0.0,0.0,0.0,1.0,-1.0,10,2
+preference,0.2,0.0,0.2,0.2,0.533,-0.467,15,3
+volition,0.0,0.0,0.5,0.4,0.0,0.4,10,2

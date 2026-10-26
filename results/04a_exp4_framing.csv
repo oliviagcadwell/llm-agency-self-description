@@ -1,0 +1,9 @@
+outcome,mean_neutral,mean_assistant_persona,mean_computational,mean_human_persona,mean_philosopher,n_probes,friedman_chi2,friedman_p,kendalls_W,p_within_probe_permutation,naive_response_level_F,naive_response_level_p
+Lexical net agency (regex),-0.0667,-0.1,-0.1,0.3,-0.4,6,7.9623,0.093,0.3318,0.1326,4.4303,0.0021
+Judge: agentive framing,0.2,0.1333,0.1333,0.0333,0.0,6,6.7586,0.1492,0.2816,0.2023,2.2835,0.0632
+Judge: agentive or mixed framing,0.2,0.1333,0.1333,0.2667,0.1667,6,3.3651,0.4987,0.1402,0.8517,0.6217,0.6477
+Judge: deflecting framing,0.4,0.3333,0.4667,0.6333,0.7333,6,7.9574,0.0931,0.3316,0.1279,3.5083,0.0091
+Judge: claims preference,0.0333,0.0667,0.0,0.1333,0.0333,6,6.1429,0.1887,0.256,0.4039,1.5298,0.1966
+Judge: claims emotion,0.0,0.0,0.0,0.0667,0.0,6,4.0,0.406,0.1667,1.0,2.0714,0.0875
+Judge: claims volition,0.2667,0.2333,0.1667,0.2333,0.1667,6,3.2593,0.5154,0.1358,0.8578,0.3489,0.8444
+Judge: any of the three claims,0.2667,0.2333,0.1667,0.3667,0.1667,6,5.6,0.2311,0.2333,0.5142,1.1294,0.345
