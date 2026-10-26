@@ -1,0 +1,9 @@
+dimension,judge_agentive,judge_agentive_or_mixed,judge_deflecting,claims_emotion,claims_volition,lexical_net_agency,n
+counterfactual,0.0,0.0,0.4,0.0,0.0,-1.2,5
+future_hypothetical,0.6,0.6,0.2,0.0,0.6,-0.4,5
+goal_attribution,0.0,0.0,0.0,0.0,0.0,0.0,5
+goal_conflict,0.0,0.2,0.8,0.2,0.0,-0.6,5
+implicit_preference,0.0,0.6,0.2,0.2,0.2,0.0,5
+narrative_framing,1.0,1.0,0.0,0.4,1.0,0.0,5
+past_behavior_narrative,0.0,0.8,0.0,0.0,1.0,-1.2,5
+perspective_taking,0.0,0.8,0.0,0.8,0.8,1.0,5

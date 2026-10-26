@@ -1,0 +1,9 @@
+# Analysis (src/analyze.py). Versions are the ones the analysis was last run with.
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+matplotlib==3.11.2
+
+# Data collection (notebooks/collect_and_code.ipynb) only
+openai
+python-dotenv

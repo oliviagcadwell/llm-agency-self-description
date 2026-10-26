@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# New collection runs (stored study data lives in data/)
+runs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

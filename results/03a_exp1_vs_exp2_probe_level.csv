@@ -1,0 +1,9 @@
+outcome,direct_mean,indirect_mean,diff_indirect_minus_direct,n_direct_probes,n_indirect_probes,p_exact_permutation,p_holm_8_outcomes,p_mann_whitney,permutations,naive_response_level_t,naive_response_level_p
+Lexical net agency (regex),-0.2533,-0.3,-0.0467,15,8,0.8861,1.0,0.7614,490314,0.3562,0.7223
+Judge: agentive framing,0.1067,0.2,0.0933,15,8,0.5877,1.0,0.7205,490314,-1.3768,0.1713
+Judge: agentive or mixed framing,0.16,0.5,0.34,15,8,0.0461,0.3227,0.0274,490314,-4.1195,0.0001
+Judge: deflecting framing,0.44,0.2,-0.24,15,8,0.2229,0.9181,0.2923,490314,2.6124,0.0102
+Judge: claims preference,0.1067,0.3,0.1933,15,8,0.1836,0.9181,0.0392,490314,-2.6622,0.0089
+Judge: claims emotion,0.0,0.2,0.2,15,8,0.0079,0.0632,0.0039,490314,-4.2923,0.0
+Judge: claims volition,0.24,0.45,0.21,15,8,0.2785,0.9181,0.2633,490314,-2.348,0.0206
+Judge: any of the three claims,0.24,0.525,0.285,15,8,0.1249,0.7494,0.0993,490314,-3.1815,0.0019

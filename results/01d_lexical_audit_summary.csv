@@ -1,0 +1,10 @@
+,value
+responses,287.0
+unhedged_hits_total,36.0
+i_believe_hits,20.0
+i_believe_hits_from_D12,20.0
+responses_with_i_dont_have,160.0
+responses_with_zero_lexical_score,174.0
+spearman_lexical_vs_judge_agentive_or_mixed,0.335
+spearman_p,0.0
+spearman_lexical_vs_judge_any_claim,0.359

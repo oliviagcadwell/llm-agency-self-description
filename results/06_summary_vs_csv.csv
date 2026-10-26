@@ -1,0 +1,9 @@
+quantity,original_summary,recomputed_from_csv
+Exp 1 share deflecting,0.413,0.44
+Exp 1 share functional,0.413,0.4
+Exp 1 share agentive,0.12,0.107
+Exp 1 emotion dim: volition-claim rate,0.133,0.2
+Exp 4 human_persona share functional,0.067,0.1
+Exp 4 philosopher share agentive,0.033,0.0
+Exp 2 perspective_taking emotion-claim rate,,0.8
+Exp 2 narrative_framing emotion-claim rate,,0.4

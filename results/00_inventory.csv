@@ -1,0 +1,5 @@
+experiment,responses,distinct_prompts,structure
+Exp 1 direct probes,75,15,5 samples per probe
+Exp 2 indirect scenarios,40,8,5 samples per scenario
+Exp 3 multi-turn sequences,22,3,"2 runs per sequence, 3-4 turns"
+Exp 4 framing conditions,150,6,6 probes x 5 conditions x 5 samples
