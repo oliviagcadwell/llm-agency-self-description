@@ -105,6 +105,8 @@ The lexical measure also needs fixing (add "I don't have…" denials, exclude sp
 
 The design draws on the distinction between perceived *agency* (planning, self-control, choosing) and perceived *experience* (feeling) in Gray, Gray & Wegner (2007), "Dimensions of mind perception," *Science* ([doi:10.1126/science.1134475](https://doi.org/10.1126/science.1134475)), and on Dennett's (1987) *The Intentional Stance*.
 
+Developed with AI assistance (Claude).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
